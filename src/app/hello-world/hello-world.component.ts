@@ -8,6 +8,4 @@ import { Component } from '@angular/core';
 
 export class HelloWorldComponent {
 
-  title = 'angular-hello-world';
-
 }
